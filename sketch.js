@@ -32,7 +32,6 @@ function setup() {
   }
   
   
-  saveGif('datavisualization_preterm',5);
 }
 
 function draw() {
